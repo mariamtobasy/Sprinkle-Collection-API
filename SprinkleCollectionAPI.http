@@ -1,0 +1,6 @@
+@SprinkleCollectionAPI_HostAddress = http://localhost:5076
+
+GET {{SprinkleCollectionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
